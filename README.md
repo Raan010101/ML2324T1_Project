@@ -12,7 +12,7 @@ Youtube Link:
 We also have broken down on who did which lab enhance ment which is also available in this repo. 
 1. Anisha(lab4) ✅
 2. Raan(lab6) ✅
-3. Phil (lab5) ✅
+3. Phil (lab5) 
 4. Suthent (lab 7) ✅
 ## Technologies Used
 
