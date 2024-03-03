@@ -8,6 +8,12 @@ This project encompasses a comprehensive machine learning pipeline, demonstratin
 
 Link : "https://colab.research.google.com/drive/1Rk2GjfcB-9xDcvD9WjTfaVALilJMd4it?usp=sharing" 
 Youtube Link: 
+
+We also have broken down on who did which lab enhance ment which is also available in this repo. 
+1. Anisha(lab4) ✅
+2. Raan(lab6) ✅
+3. Phil (lab5) ✅
+4. Suthent (lab 7) ✅
 ## Technologies Used
 
 - **Python**: The primary programming language used for the project.
