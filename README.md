@@ -11,9 +11,13 @@ Link : "https://colab.research.google.com/drive/1Rk2GjfcB-9xDcvD9WjTfaVALilJMd4i
 Youtube Link: "https://www.youtube.com/watch?v=r4WM7fHvbRc"
 
 We also have broken down on who did which lab enhance ment which is also available in this repo. 
+
 Mmeber 1. ANISHALACHE A/P SUBRAMANIAM(lab4) ✅
+
 Mmeber 2. NDIRITU COLLINS MUTURI (lab1) ✅
+
 Mmeber 3. SUTHENT A/L TAMILSELVAM (lab 7) ✅
+
 Mmeber 4. NYAANAPUTHRAAN PRABAKARAN (lab6) ✅ 
 ## Technologies Used
 
