@@ -10,10 +10,10 @@ Link : "https://colab.research.google.com/drive/1Rk2GjfcB-9xDcvD9WjTfaVALilJMd4i
 Youtube Link: 
 
 We also have broken down on who did which lab enhance ment which is also available in this repo. 
-1. Anisha(lab4) ✅
-2. Raan(lab6) ✅
-3. Phil (lab5) 
-4. Suthent (lab 7) ✅
+1. ANISHALACHE A/P SUBRAMANIAM(lab4) ✅
+2. NDIRITU COLLINS MUTURI (lab1) ✅
+3. SUTHENT A/L TAMILSELVAM (lab 7) ✅
+4. NYAANAPUTHRAAN PRABAKARAN (lab6) ✅ 
 ## Technologies Used
 
 - **Python**: The primary programming language used for the project.
